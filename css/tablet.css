@@ -1,0 +1,17 @@
+
+.courses .course img{
+    width: 100%;
+    height: 100%;
+
+}
+.techical {
+    margin-bottom:0.6rem;
+}
+
+
+.courses .course {
+    flex-direction: column;
+}
+#training .items .item span {
+    display: none;
+}
